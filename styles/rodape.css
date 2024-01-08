@@ -9,7 +9,7 @@
     display: flex;
     justify-content: center;
     gap: 3.5rem;
-    padding: 3.5rem 0;
+    padding: 1.5rem 0;
 }
 
 .rodape .rodape__nav--lista .rodape__nav--lista--whatsapp::before {
